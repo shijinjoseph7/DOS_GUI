@@ -1,5 +1,5 @@
 # DOS_GUI
-It's a GUI for DOS. Its made to mimic like other OSes like Windows. Coded in Turbo C++.
+It's a GUI for DOS. Its made to mimic like other OS's like windows. Coded in Turbo C++.
 
 Its made to run on Turbo C++. 
 
